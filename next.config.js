@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images:{
-    domains: ['image.tmdb.org', 'firebasestorage.googleapis.com']
+    domains: ['d205bpvrqc9yn1.cloudfront.net', 'firebasestorage.googleapis.com']
   },
   env:{
     tmdbApiKey: ['b976c85658ffab05600e4ade8e894259'],    
